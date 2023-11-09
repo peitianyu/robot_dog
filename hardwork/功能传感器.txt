@@ -1,0 +1,31 @@
+pcb设计:
+	模块			完成	通讯
+	1. 麦克风/扬声器		√	usb
+	2. 手势识别(PA)		√	i2c
+	3. USB_HUB模块		√	usb
+	4. imu陀螺仪		√	i2c
+	5. 电源降压模块(5v-3.3v)	√	 -
+	6. 舵机模块		√	i2c	
+	7. 无线充电		√  	 -
+	8. 电源监测	        √	i2c 
+	9. 电源升压模块		√  	 - 
+	10. 相机			√	usb
+主控芯片选择:
+	std8g
+参考:
+升压模块:
+	https://blog.csdn.net/li707414287/article/details/124460389
+	https://blog.csdn.net/qq_35658046/article/details/126494377
+电压监测:
+	https://blog.csdn.net/weixin_41583631/article/details/108105059?ops_request_misc=&request_id=&biz_id=102&utm_term=%E7%94%B5%E6%BA%90%E7%94%B5%E5%8E%8B%E7%9B%91%E6%B5%8B%E7%94%B5%E8%B7%AF&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-108105059.142^v96^pc_search_result_base3&spm=1018.2226.3001.4187
+无线充电模块:
+	https://blog.csdn.net/fanhaidz/article/details/120874624
+其他电路:
+	https://github.com/peng-zhihui/ElectronBot
+	https://github.com/jinsonli/ElectronBot-Voice
+
+
+
+结构设计:
+	
+	

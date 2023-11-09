@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "stm32cube",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"c_test.h": "c"
+		}
+	}
+}
